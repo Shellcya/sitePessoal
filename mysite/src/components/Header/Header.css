@@ -1,0 +1,25 @@
+.secoes  {
+  
+  display: flex;
+  justify-content: flex-end;
+  font-size:.9rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  border-top: solid black;
+  border-bottom: solid black;
+  background:#8B8989;
+ 
+
+}
+ 
+.cabecalho{
+ 
+  text-decoration: none;
+  padding:.5rem;
+  color:black;
+  margin-right: 1rem;
+  font-size:1.3rem;
+ }
+
+ 
