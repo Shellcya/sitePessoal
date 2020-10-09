@@ -8,16 +8,16 @@
 
   .project {
     display: flex;
-    flex-direction: column;
+ 
     padding-top: 3rem;
     align-items: center;
-    padding-left: 3rem;
+    padding-left: 8rem;
   }
+.jk {
+  padding: 3rem;
+}
 
-  .jk {
-    padding-top: 2rem;
-    padding-left: 4.3rem;
-   
-  }
-
+.hb {
+  padding:3rem;
   
+}
